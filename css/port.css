@@ -72,7 +72,7 @@ img{
   font-size: 190%;
   text-align: center;
   font-weight: bold;
-  color: white;
+  color: black;
   text-shadow: 2px 2px 8px #FF0900;
 
 }
@@ -82,7 +82,7 @@ img{
   font-size: 135%;
   font-style: italic;
   font-weight: 500;
-  background-color: white;
+  background-color: black;
   opacity: 0.5;
 
 }
