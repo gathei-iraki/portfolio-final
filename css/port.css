@@ -1,0 +1,100 @@
+body {
+  background-image: url('color.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+h1{
+  color: grey;
+  text-decoration: underline;
+  text-align: center;
+  font-style: italic;
+
+}
+.sidebar{
+background-color: thistle;
+opacity: 0.5;
+  width: 30%;
+  border-radius: 10%;
+  border-width: medium;
+  text-shadow: 2px 2px 8px #FF0000;
+  font-style: italic;
+
+
+
+}
+.sidebar:hover{
+  opacity: 1.0;
+}
+.introduction{
+  font-size:150%;
+  font-family: times new roman;
+  font-style:oblique;
+  font-weight: 600;
+  text-align: center;
+  background-color: white;
+  opacity: 0.4;
+
+
+}
+.introduction:hover{
+  opacity: 0.8;
+}
+
+.projectwild{
+  font-size: 140%;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  text-shadow: 2px 2px 8px #FF0900;
+}
+img{
+  opacity: 0.5;
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+
+}
+.save{
+  text-align: center;
+  font-size: 135%;
+  font-style: italic;
+  font-weight: 500;
+  background-color: thistle;
+  opacity: 0.5;
+
+}
+
+.save:hover{
+  opacity: 0.8;
+}
+
+.cookie{
+  font-size: 190%;
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  text-shadow: 2px 2px 8px #FF0900;
+
+}
+
+.story{
+  text-align: center;
+  font-size: 135%;
+  font-style: italic;
+  font-weight: 500;
+  background-color: white;
+  opacity: 0.5;
+
+}
+.story:hover{
+  opacity: 0.8;
+}
+
+.know{
+  background-color: black;
+  font-style: italic;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+
+}
